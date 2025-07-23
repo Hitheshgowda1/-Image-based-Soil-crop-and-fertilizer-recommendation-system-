@@ -1,0 +1,34 @@
+SoilType,Drainage,OrganicMatter,Texture,Crop
+Sandy,Well-drained,Low,Coarse,Wheat
+Sandy,Well-drained,Low,Coarse,Barley
+Sandy,Well-drained,Low,Coarse,Millet
+Clayey,Poorly-drained,High,Fine,Rice
+Clayey,Poorly-drained,High,Fine,Sugarcane
+Clayey,Poorly-drained,High,Fine,Cotton
+Loamy,Moderate,Medium,Medium,Maize
+Loamy,Moderate,Medium,Medium,Vegetables
+Loamy,Moderate,Medium,Medium,Fruits
+Peaty,Poorly-drained,Very High,Fine,Rice
+Peaty,Poorly-drained,Very High,Fine,Banana
+Peaty,Poorly-drained,Very High,Fine,Vegetables
+Chalky,Well-drained,Low,Coarse,Barley
+Chalky,Well-drained,Low,Coarse,Grapes
+Chalky,Well-drained,Low,Coarse,Beans
+Silty,Moderate,Medium,Fine,Wheat
+Silty,Moderate,Medium,Fine,Soybean
+Silty,Moderate,Medium,Fine,Corn
+Saline,Poorly-drained,Low,Variable,Barley
+Saline,Poorly-drained,Low,Variable,Sunflower
+Saline,Poorly-drained,Low,Variable,Sorghum
+Sandy Loam,Well-drained,Medium,Medium-Coarse,Groundnut
+Sandy Loam,Well-drained,Medium,Medium-Coarse,Vegetables
+Sandy Loam,Well-drained,Medium,Medium-Coarse,Watermelon
+Red Soil,Well-drained,Low,Medium,Cotton
+Red Soil,Well-drained,Low,Medium,Sorghum
+Red Soil,Well-drained,Low,Medium,Millets
+Black Soil,Poorly-drained,High,Fine,Cotton
+Black Soil,Poorly-drained,High,Fine,Soybean
+Black Soil,Poorly-drained,High,Fine,Groundnut
+Alluvial Soil,Well-drained,High,Medium,Rice
+Alluvial Soil,Well-drained,High,Medium,Wheat
+Alluvial Soil,Well-drained,High,Medium,Sugarcane
